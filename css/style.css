@@ -200,6 +200,7 @@ button {
     width: 100%;
 }
 .form-div-img{
+    padding-top: 30px;
     width:62%;
 }
 ::placeholder{
