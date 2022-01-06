@@ -93,25 +93,25 @@ a {
     text-align: center;
     padding-bottom: 50px;
 }
-.ill-img  h4{
+.ill-img-bg  h4{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 30px;
     color: #01040a; 
     padding-left: 30px ;
 }
-.ill-img {
+.ill-img-bg {
     margin-right: 30px;
- background: #3eb674;
+ background: #5f768e;
  border-radius:30px ;
  -webkit-border-radius:30px ;
  -moz-border-radius:30px ;
  -ms-border-radius:30px ;
  -o-border-radius:30px ;
 }
-.ill-img p{
+.ill-img-bg p{
     padding: 10px 30px 30px;
 }
-.ill-img img{
+.ill-img-bg img{
     width:40%;
 }
