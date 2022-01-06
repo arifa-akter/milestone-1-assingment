@@ -28,6 +28,8 @@ a {
     color: #5f768e;
     text-transform: uppercase;
     border-left: 7px solid tomato;
+    border-image:linear-gradient(#e26c31,#5f768e);
+    border-image-slice: 1;
     padding-left: 20px;
 }
 .focuse-text h3{
@@ -80,6 +82,7 @@ a {
 /* ========== part -2 ========= */
 .mission{
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 .mission-head span{
     color: #fc9461;
