@@ -153,5 +153,10 @@ a {
 /* ============== part-4 ============ */
 .Community h1{
     font-family: 'Poppins', sans-serif;
-    
+    border: none;
+    color:rgb(13, 13, 27);
+    padding-left: 0;
+}
+.Community span{
+    color:rgb(32, 128, 131);
 }
