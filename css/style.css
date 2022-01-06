@@ -93,6 +93,13 @@ a {
     text-align: center;
     padding-bottom: 50px;
 }
+.ill-img  h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #01040a; 
+    padding-left: 30px ;
+}
 .ill-img {
     margin-right: 30px;
  background: #3eb674;
@@ -103,7 +110,7 @@ a {
  -o-border-radius:30px ;
 }
 .ill-img p{
-    padding: 38px 30px;
+    padding: 10px 30px 30px;
 }
 .ill-img img{
     width:40%;
