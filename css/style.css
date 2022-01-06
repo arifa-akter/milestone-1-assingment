@@ -1,50 +1,59 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
 }
- a{
-    text-decoration:none;
-} 
-.common-disply{
+
+a {
+    text-decoration: none;
+}
+
+.common-disply {
     display: flex;
     width: 80%;
     margin: 0 auto;
 }
+
 /* ========== part-1 =========== */
- .focuse-text{
-    padding-top:50px;
+.focuse-text {
+    padding-top: 50px;
     width: 50%;
 }
-.focuse-text h1{
+
+.focuse-text h1 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
     font-size: 60px;
-    color:#5f768e;
+    color: #5f768e;
     text-transform: uppercase;
 
 }
-.focuse-text span{
-    color:#fc9461;
+
+.focuse-text span {
+    color: #fc9461;
 }
-.focuse-img{
+
+.focuse-img {
     padding-left: 20px;
     width: 68%;
 }
-.focuse-img img{
+
+.focuse-img img {
     width: 50%;
 }
-.focuse-text p{
+
+.focuse-text p {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 20px;
-    font-weight: 400; 
-    
+    font-weight: 400;
+
 }
-.link-button a{
+
+.link-button a {
     font-family: 'Oswald', sans-serif;
     padding: 15px 30px;
     font-size: 17px;
-    color:pink;
+    color: #ffffff;
     font-weight: 600;
     text-transform: uppercase;
-
+    background: linear-gradient(#5f768e, #e26c31) ;
 }
