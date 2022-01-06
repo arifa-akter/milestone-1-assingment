@@ -7,7 +7,7 @@ a {
     text-decoration: none;
 }
 
-.common-disply {
+.common-display {
     display: flex;
     width: 80%;
     margin: 0 auto;
@@ -127,5 +127,9 @@ a {
 }
 /* ================ part-3 ============= */
 .develop-text h1{
-    font-size: 30px ;
+    font-size: 40px;
+}
+.develop-text span{
+  display:block;
+  color:#e26c31;
 }
