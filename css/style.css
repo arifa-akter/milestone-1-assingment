@@ -169,9 +169,9 @@ a {
  
 }
 /* ============= part-5 =========== */
-.form-div{
-    padding: 50px 30px 30px 50px;
-    background:rgba(77, 146, 202, 0.562);
+.form-div {
+	padding: 100px 80px 100px 80px;
+	background: rgba(77, 146, 202, 0.562);
 }
 input {
 	padding: 21px 300px 20px 30px;
