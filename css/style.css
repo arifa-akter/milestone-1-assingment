@@ -129,7 +129,19 @@ a {
 .develop-text h1{
     font-size: 40px;
 }
+.develop-text{
+    width: 50%;
+    padding-top: 90px;
+}
 .develop-text span{
   display:block;
   color:#e26c31;
+}
+.develop-img{   
+        width: 50%;
+        padding-top: 62px;
+}
+.develop-img img {
+	width: 69%;
+	padding-left: 127px;
 }
