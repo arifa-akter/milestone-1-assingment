@@ -126,6 +126,11 @@ a {
     background:#ddacd9 ;
 }
 /* ================ part-3 ============= */
+#develop{
+    background: url(../images/dream-bg.png) no-repeat;
+    background-position: left;
+    margin-bottom: 100px;
+}
 .develop-text h1{
     font-size: 40px;
 }
