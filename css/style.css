@@ -25,7 +25,7 @@ a {
     font-size: 60px;
     color: #5f768e;
     text-transform: uppercase;
-
+    padding-bottom:  19px ;
 }
 
 .focuse-text span {
@@ -46,6 +46,7 @@ a {
     font-size: 20px;
     font-weight: 400;
     line-height: 26px;
+    padding-bottom: 30px;
 }
 
 .link-button a {
