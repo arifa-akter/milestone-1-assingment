@@ -55,7 +55,7 @@ a {
     font-size: 20px;
     font-weight: 400;
     line-height: 26px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     color: rgb(36, 31, 31);
 }
 
@@ -67,4 +67,9 @@ a {
     font-weight: 600;
     text-transform: uppercase;
     background: linear-gradient(#5f768e, #e26c31);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
