@@ -169,13 +169,16 @@ a {
  
 }
 /* ============= part-5 =========== */
+#online-form{
+    margin-bottom: 100px;
+}
 .form-div {
 	padding: 100px 80px 100px 80px;
 	background: rgba(77, 146, 202, 0.562);
 }
 input {
 	padding: 21px 300px 20px 30px;
-    margin-bottom: 20px;;
+    margin-bottom: 50px;;
 }
 button {
 	font-family: 'Poppins', sans-serif;
