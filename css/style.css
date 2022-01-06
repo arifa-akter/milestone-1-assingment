@@ -11,7 +11,8 @@ a {
     display: flex;
     width: 80%;
     margin: 0 auto;
-    justify-content: space-between;
+    /* justify-content: space-between;
+    align-items: center; */
 }
 
 /* ========== part-1 =========== */
@@ -91,6 +92,18 @@ a {
     color: #0c295f;
     text-align: center;
     padding-bottom: 50px;
+}
+.ill-img {
+    margin-right: 30px;
+ background: #3eb674;
+ border-radius:30px ;
+ -webkit-border-radius:30px ;
+ -moz-border-radius:30px ;
+ -ms-border-radius:30px ;
+ -o-border-radius:30px ;
+}
+.ill-img p{
+    padding: 38px 30px;
 }
 .ill-img img{
     width:40%;
