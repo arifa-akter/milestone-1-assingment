@@ -208,9 +208,26 @@ button {
 }
 /* ============== part-6 ===== */
 #mission-2022{
+    padding: 50px 0 50px 0;
     background-color: #010713;
     text-align: center;
 }
-/* .hardwork {
-   
-} */
+.hardwork h2 {
+    padding-bottom: 50px;
+   font-style: italic;
+   font-weight: 400;
+   font-size: 50px;
+   color:#ffffff;
+   font-weight: 600;
+} 
+
+.hardwork h3 {
+    font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+   color:#ffffff;
+   font-weight: 500;
+} 
+.hardwork span{
+    color:#e26c31;
+}
