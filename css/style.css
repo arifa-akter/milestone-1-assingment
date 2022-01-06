@@ -199,9 +199,9 @@ button {
 .form-div-img img{
     width: 100%;
 }
-.form-div-img{
-    padding-top: 52px;
-    width:62%;
+.form-div-img {
+	padding-top: 52px;
+	width: 62%;
 }
 ::placeholder{
     font-size: 20px;
