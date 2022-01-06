@@ -169,10 +169,19 @@ a {
  
 }
 /* ============= part-5 =========== */
+.form-div{
+    padding: 50px 30px 30px 50px;
+    background:rgba(77, 146, 202, 0.562);
+}
 input {
 	padding: 21px 300px 20px 30px;
     margin-bottom: 20px;;
 }
 button {
-    padding: 21px 150px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 22px;
+	padding: 18px 183px;
+	background: rgb(77, 104, 223);
+    color: #ffffff;
 }
