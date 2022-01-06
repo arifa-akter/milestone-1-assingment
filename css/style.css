@@ -151,6 +151,9 @@ a {
 	padding-right: 127px;
 }
 /* ============== part-4 ============ */
+#global{
+    margin-bottom: 100px
+}
 .Community h1{
     font-family: 'Poppins', sans-serif;
     border: none;
