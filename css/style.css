@@ -191,8 +191,10 @@ button {
 .onlin-head h2{
     padding-bottom: 100px;
 }
-.form-div{
-    width: 38%;
+.form-div {
+	width: 38%;
+	box-shadow: 19px 2px 24px black;
+	margin-right: 60px;
 }
 .form-div-img img{
     width: 100%;
