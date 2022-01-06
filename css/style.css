@@ -169,3 +169,10 @@ a {
  
 }
 /* ============= part-5 =========== */
+input {
+	padding: 21px 300px 20px 30px;
+    margin-bottom: 20px;;
+}
+button {
+    padding: 21px 150px;
+}
