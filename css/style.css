@@ -75,3 +75,18 @@ a {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+/* ========== part -2 ========= */
+.mission{
+    margin-top: 100px;
+}
+.mission-head span{
+    color: #fc9461;
+}
+
+.mission-head h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: #0c295f;
+    text-align: center;
+}
